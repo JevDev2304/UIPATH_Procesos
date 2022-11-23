@@ -1,4 +1,5 @@
 ﻿{
+<<<<<<< HEAD
   "Id": "1OopCCQ8RUuym0PlvJleKA",
   "Type": "Library",
   "Created": "2022-11-23T06:21:24.7014254Z",
@@ -6,4 +7,13 @@
     "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
   ],
   "Updated": "2022-11-23T06:21:24.7014254Z"
+=======
+  "Id": "oMIDZlTHnke-oBrzo9V6TQ",
+  "Type": "Library",
+  "Created": "2022-11-22T22:05:28.9561735Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-22T22:05:28.9561735Z"
+>>>>>>> 829cb19e4b3250161373376adb4ad5290d4e69ce
 }
