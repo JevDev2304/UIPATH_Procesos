@@ -10,7 +10,7 @@
 
 - El lenguaje que se uso dentro de UIPATH es Visual Basic. 👨🏻‍💻
 
--Apoyado por la empresa Algordanza Colombia 💎.
+Apoyado por la empresa Algordanza Colombia 💎.
 
 
 
