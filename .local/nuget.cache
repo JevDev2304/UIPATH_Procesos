@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PdAIulZWll7N7/TNRHiLSdpLU0TJDFvVby70+lG8lIspK5WW1Bld3r9fmnOKQc8dJBsRftuEXgISddUTJ1JB7A==",
+  "dgSpecHash": "7OXuRK2oKNjYpBD9bp6wZoQwKYEBXfuZkzOcJZQaUxW/TlH21UPwily5FzthAMjXGY5AQNj6L2hN8iCfC9mbdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jvald\\Desktop\\.local\\",
+  "projectFilePath": "C:\\Users\\jvald\\Desktop\\UIPATH_Procesos2\\UIPATHplatzi\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\jvald\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\jvald\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",

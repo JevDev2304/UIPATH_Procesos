@@ -20620,9 +20620,9 @@
     "restore": {
       "projectUniqueName": "Desktop",
       "projectName": "Desktop",
-      "projectPath": "C:\\Users\\jvald\\Desktop\\.local",
+      "projectPath": "C:\\Users\\jvald\\Desktop\\UIPATH_Procesos2\\UIPATHplatzi\\.local",
       "packagesPath": "C:\\Users\\jvald\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jvald\\Desktop\\.local"
+      "outputPath": "C:\\Users\\jvald\\Desktop\\UIPATH_Procesos2\\UIPATHplatzi\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
